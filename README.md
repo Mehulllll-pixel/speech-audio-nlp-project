@@ -131,6 +131,7 @@ Standard WER penalises models for producing **valid alternatives** that differ f
 | Model n |    0.1032    |    0.0812   |       ↓ 21.3%      |
 
 > 5/6 models were unfairly penalised by rigid reference matching. Model i is correctly **unchanged** — its errors were genuine.
+> working on it 
 
 ---
 
